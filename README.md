@@ -1,3 +1,5 @@
+Movie Recommendation System -
+
 Developed a movie recommendation system to predict user preferences based on age and selected movies. 
 Built a dataset of 50 popular movies with user feedback on liking or disliking them. 
 Preprocessed data using pandas, encoded categorical values, and trained a DecisionTreeClassifier model to predict user preferences. 
